@@ -24,11 +24,31 @@ jobs:
 
       - name: 安装依赖
         run: |
-          pip install requests
+          pip install requests aiohttp asyncio
 
       - name: 列出 tv 目录中的文件
         run: |
           ls -la tv
+
+      - name: 运行源聚合器
+        run: |
+          cd tv/sources
+          python source_aggregator.py
+
+      - name: 运行延迟测试器
+        run: |
+          cd tv/latency
+          python latency_tester.py
+
+      - name: 运行智能优化器
+        run: |
+          cd tv/latency
+          python smart_optimizer.py
+
+      - name: 运行TVBox优化器
+        run: |
+          cd tv/latency
+          python tvbox_optimizer.py
 
       - name: 运行 syn_live_list.py
         run: |
@@ -38,6 +58,7 @@ jobs:
       - name: 列出生成的文件
         run: |
           ls -la tv
+          ls -la tv/output/enhanced_playlists/ || echo "enhanced_playlists not found"
 
       - name: 检查是否有更改
         id: detect_changes
