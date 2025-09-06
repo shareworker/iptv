@@ -1,0 +1,89 @@
+{
+  "sources": [
+    {
+      "name": "iptv-org-china",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
+      "enabled": true,
+      "priority": 1,
+      "type": "m3u",
+      "description": "全球最大的IPTV源库中国频道"
+    },
+    {
+      "name": "fanmingming-ipv6",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "enabled": true,
+      "priority": 1,
+      "type": "m3u",
+      "description": "fanmingming IPv6直播源"
+    },
+    {
+      "name": "fanmingming-ipv4",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv4.m3u",
+      "enabled": true,
+      "priority": 1,
+      "type": "m3u",
+      "description": "fanmingming IPv4直播源"
+    },
+    {
+      "name": "yuechan-live",
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u8",
+      "enabled": true,
+      "priority": 2,
+      "type": "m3u",
+      "description": "YueChan优质直播源"
+    },
+    {
+      "name": "beijing-iptv",
+      "url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u",
+      "enabled": true,
+      "priority": 2,
+      "type": "m3u",
+      "description": "北京联通IPTV源"
+    },
+    {
+      "name": "joevess-iptv",
+      "url": "https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8",
+      "enabled": true,
+      "priority": 3,
+      "type": "m3u",
+      "description": "joevess综合IPTV源"
+    },
+    {
+      "name": "hotel-iptv",
+      "url": "https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/hotel.m3u",
+      "enabled": true,
+      "priority": 3,
+      "type": "m3u",
+      "description": "酒店IPTV源"
+    }
+  ],
+  "settings": {
+    "max_concurrent_requests": 10,
+    "request_timeout": 10,
+    "retry_attempts": 3,
+    "cache_duration_hours": 24,
+    "min_channel_count": 100
+  },
+  "latency_tiers": {
+    "ultra_low": {
+      "max_latency": 100,
+      "priority": 1,
+      "description": "超低延迟 (< 100ms)"
+    },
+    "low": {
+      "max_latency": 300,
+      "priority": 2,
+      "description": "低延迟 (< 300ms)"
+    },
+    "medium": {
+      "max_latency": 800,
+      "priority": 3,
+      "description": "中等延迟 (< 800ms)"
+    },
+    "high": {
+      "max_latency": 2000,
+      "priority": 4,
+      "description": "可接受延迟 (< 2s)"
+    }
+  }
+}
