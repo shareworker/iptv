@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CCTV-1",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8",
+    "latency": -1,
+    "status": "tcp_failed"
+  },
+  {
+    "name": "CCTV-2",
+    "url": "http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8",
+    "latency": -1,
+    "status": "tcp_failed"
+  }
+]
