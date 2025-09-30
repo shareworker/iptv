@@ -1,0 +1,17 @@
+{
+  "name": "智能优化的IPTV直播源",
+  "version": "1.0.0",
+  "description": "专为TVBox优化的直播源，包含延迟优化和智能缓存",
+  "groups": {
+    "": {
+      "count": 162,
+      "avg_latency": 1100.9244444444441,
+      "best_tier": "ultra_low"
+    }
+  },
+  "settings": {
+    "default_latency_tier": "medium",
+    "auto_switch_backup": true,
+    "quality_preference": "high"
+  }
+}
