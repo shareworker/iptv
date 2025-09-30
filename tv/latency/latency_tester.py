@@ -129,7 +129,7 @@ class LatencyTester:
 
         # 首先尝试IPv6
         try:
-            result = await loop.getaddrinfo(hostname, None, socket.AF_INET6)
+            result = await loop.getaddrinfo(hostname, None, family=socket.AF_INET6)
             if result:
                 ip = result[0][4][0]
                 return {'ip': ip, 'type': 'ipv6'}
@@ -138,7 +138,7 @@ class LatencyTester:
 
         # IPv4解析
         try:
-            result = await loop.getaddrinfo(hostname, None, socket.AF_INET)
+            result = await loop.getaddrinfo(hostname, None, family=socket.AF_INET)
             if result:
                 ip = result[0][4][0]
                 return {'ip': ip, 'type': 'ipv4'}

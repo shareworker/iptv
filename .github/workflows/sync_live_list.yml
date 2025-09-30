@@ -54,11 +54,19 @@ jobs:
         run: |
           cd tv
           python syn_live_list.py
+        env:
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
 
       - name: 列出生成的文件
         run: |
           ls -la tv
           ls -la tv/output/enhanced_playlists/ || echo "enhanced_playlists not found"
+
+      - name: 清理临时文件
+        run: |
+          find . -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null || true
+          find . -type f -name "*.pyc" -delete 2>/dev/null || true
+          find . -type f -name "*.log" -delete 2>/dev/null || true
 
       - name: 检查是否有更改
         id: detect_changes
@@ -74,6 +82,7 @@ jobs:
         if: steps.detect_changes.outcome != 'success'
         run: |
           git commit -m "Sync live list $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S')"
+          git pull --rebase origin master || git pull --rebase origin main
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}

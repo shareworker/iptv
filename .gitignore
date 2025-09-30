@@ -1,0 +1,77 @@
+# Windsurf规则和相关文件
+.windsurf/
+.windsurf/rules/
+.windsurf/rules/*.md
+
+# Python相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 日志文件
+*.log
+*.log.*
+logs/
+log/
+
+# 缓存文件
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.coverage.*
+
+# 虚拟环境
+venv/
+ENV/
+env/
+.env/
+.venv/
+env.bak/
+venv.bak/
+
+# IDE相关
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IPTV项目特定文件
+tv/output/enhanced_playlists/*.m3u
+tv/output/*.json
+tv/sources/cache/
+optimization_runner.log
+latency_tester.log
+source_aggregator.log
+smart_optimizer.log
+tvbox_optimizer.log
+test_run.log
+debug_output.txt
+
+# 临时文件
+*.tmp
+*.temp
+.temp/
+tmp/
