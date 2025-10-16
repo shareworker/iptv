@@ -13,6 +13,12 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://223.72.123.28:85/tsfile/live/1026_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV Science & Education Channel
 http://49.113.179.174:4022/udp/238.125.3.121:5140
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV 北京卫视 [Not 24/7]
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV 北京卫视
+http://118.81.195.79:9003/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-4 Europe
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/cctv4/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CETV1 (576p)
 http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CETV2 (576p)
@@ -45,8 +51,6 @@ http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?authid=0&key=txiptv&playlive
 http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",DOX Yijia
 http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?authid=0&key=txiptv&playlive=1
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",东方卫视 (2160p)
-http://118.81.195.79:9003/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Dragon TV International (360p)
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Ecology & Environment TV
@@ -143,6 +147,10 @@ http://49.113.179.174:4022/udp/238.125.2.172:5140
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",SMG Football Channel
 http://49.113.179.174:4022/udp/238.125.2.142:5140
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",ST Bongo
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/stbongo/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",ST Rembo TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",STV City
 http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",STV News and General
@@ -181,6 +189,8 @@ http://49.113.179.174:4022/udp/238.125.3.94:5140
 https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Yicai TV
 http://49.113.179.174:4022/udp/238.125.0.165:5140
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Zhejiang Satellite TV
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Zhejiang TV International
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",万州三峡移民 (576p) [Not 24/7]
@@ -197,6 +207,10 @@ https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",上虞經濟文化 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",东南卫视 (Southeast Television fka Fujian Television) (2160p)
+http://118.81.195.79:9003/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",东方卫视 (2160p)
+http://118.81.195.79:9003/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",中国气象 (576p) [Not 24/7]
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",丰宁综合
@@ -213,10 +227,10 @@ http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",云南卫视 (1080p)
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",云南卫视 (576p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",云南卫视 (576p) [Not 24/7]
 http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",云南卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",云南卫视 (540p)
 http://112.25.48.68/live/program/live/ynws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",云南都市 (1080p)
@@ -281,10 +295,6 @@ https://stream2.jlntv.cn/qg/sd/live.m3u8
 http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",动画王国 (1080p)
 http://183.207.248.71/cntv/live1/donghuawg/donghuawg
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV 北京卫视
-http://118.81.195.79:9003/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV 北京卫视 [Not 24/7]
-http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",北京紀實 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",北京衛視 (1080p) [Geo-blocked]
@@ -393,10 +403,10 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",孟州电视台 (1080p) [Not 24/7]
 http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",宁夏卫视 (576p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",宁夏卫视 (576p) [Not 24/7]
 http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",宁夏卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",宁夏卫视 (540p)
 http://112.25.48.68/live/program/live/nxws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",安徽 Ⅰ 郎溪综合台 (1080p)
@@ -471,8 +481,6 @@ http://117.156.28.119/270000001111/1110000130/index.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",平乡电视台 (576p)
 http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",东南卫视 (Southeast Television fka Fujian Television) (2160p)
-http://118.81.195.79:9003/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
@@ -579,22 +587,22 @@ https://live.lyg1.com/zhpd/sd/live.m3u8
 http://183.207.249.12/PLTV/4/224/3221225935/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏公共 (576p)
 http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏卫视 (1080p)
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏卫视 (1080p) [Not 24/7]
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏卫视 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏卫视 (576p)
 http://183.207.248.71/gitv/live1/JSWS-HD/JSWS-HD
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏城市 (576p)
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏影视 (576p)
-http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏影视 (576p) [Not 24/7]
 http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏教育 (576p)
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏影视 (576p)
+http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏教育 (576p) [Not 24/7]
 http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏教育 (576p)
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江苏综艺 (576p) [Not 24/7]
 http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",江西卫视 (1080p)
@@ -667,13 +675,11 @@ http://118.81.195.79:9003/hls/28/index.m3u8
 http://stream.haixitv.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",涡阳新闻综合 (360p)
 http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",深圳卫视 (1080p)
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",深圳卫视 (1080p) [Not 24/7]
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",深圳卫视 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",湖北卫视 (1080p)
-http://118.81.195.79:9003/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",湖南卫视 (1080p)
 http://118.81.195.79:9003/hls/32/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",湖南都市 (576p)
 http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
@@ -761,10 +767,10 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",萬州三峽移民 (576p)
 http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",萬州影視文藝 (576p)
-http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",萬州影視文藝 (576p) [Not 24/7]
 http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",萬州影視文藝 (576p)
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",萬州科教頻道 (576p)
 http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",萬州綜合頻道 (576p)
@@ -889,10 +895,10 @@ http://118.81.195.79:9003/hls/22/index.m3u8
 http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",金昌綜合頻道 (720p) [Geo-blocked]
 http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",金鹰卡通 (576p)
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",金鹰卡通 (576p) [Geo-blocked]
 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",金鹰卡通 (576p)
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",金鹰卡通 (湖南) (540p) [Not 24/7]
 http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",长乐综合 [Geo-blocked]
@@ -979,14 +985,6 @@ http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",黑龙江卫视 (2160p)
 http://118.81.195.79:9003/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Zhejiang Satellite TV
-https://play-qukan.cztv.com/live/1758879019692345.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",ST Bongo
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/stbongo/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",ST Rembo TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-4 Europe
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/cctv4/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-1综合
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-2财经
