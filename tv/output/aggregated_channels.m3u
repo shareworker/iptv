@@ -19,8 +19,6 @@ http://49.113.179.174:4022/udp/238.125.3.121:5140
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV 北京卫视
 http://118.81.195.79:9003/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-4 Europe
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/cctv4/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CETV1 (576p)
 http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CETV2 (576p)
@@ -151,10 +149,6 @@ http://49.113.179.174:4022/udp/238.125.2.172:5140
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",SMG Football Channel
 http://49.113.179.174:4022/udp/238.125.2.142:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",ST Bongo
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/stbongo/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",ST Rembo TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",STV City
 http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",STV News and General
