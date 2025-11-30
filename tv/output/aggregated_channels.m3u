@@ -1201,6 +1201,8 @@ http://192.168.123.1:23234/rtp/239.3.1.249:8001
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",淘电影[高清]
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",重温经典[高清]
+http://192.168.123.1:23234/rtp/239.3.1.25:8001
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",星影[高清]
 http://192.168.123.1:23234/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",动作影院[高清]
