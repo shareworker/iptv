@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "专为TVBox优化的直播源，包含延迟优化和智能缓存",
   "groups": {
-    "": {
-      "count": 164,
-      "avg_latency": 1167.2518292682928,
-      "best_tier": "low"
+    "央视": {
+      "count": 1,
+      "avg_latency": 85.5,
+      "best_tier": "ultra_low"
     }
   },
   "settings": {
