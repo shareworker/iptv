@@ -19,8 +19,6 @@ http://49.113.179.174:4022/udp/238.125.3.121:5140
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV 北京卫视
 http://118.81.195.79:9003/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-13 (1080p)
 https://cdn3.163189.xyz/163189/cctv13
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CETV1 (576p)
@@ -33,20 +31,8 @@ http://121.19.134.246:808/hls/62/index.m3u8
 http://49.113.179.174:4022/udp/238.125.3.92:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CGTN
-https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CGTN Arabic
-https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CGTN Documentary
-https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CGTN French
-https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CGTN Russian
-https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CGTN Spanish
-https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Channel Law
 http://49.113.179.174:4022/udp/238.125.2.201:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Chifeng Comprehensive News Chanel
@@ -55,8 +41,6 @@ http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 http://49.113.179.174:4022/udp/238.125.1.60:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Documentary Humanities Channel
 http://49.113.179.174:4022/udp/238.125.3.135:5140
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Dragon TV International (360p)
-http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Ecology & Environment TV
 http://49.113.179.174:4022/udp/238.125.2.175:5140
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Foshan News TV
