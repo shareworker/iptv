@@ -8,15 +8,15 @@
   {
     "name": "CCTV-2",
     "url": "http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8",
-    "latency": 892.61,
-    "dns_latency": 867.47,
-    "tcp_latency": 25.14,
+    "latency": 642.46,
+    "dns_latency": 600.98,
+    "tcp_latency": 41.48,
     "http_latency": 0,
     "status": "success",
     "status_code": 403,
-    "ip": "43.168.99.40",
+    "ip": "43.174.143.239",
     "ip_type": "ipv4",
-    "quality_score": 85.0,
-    "latency_tier": "high"
+    "quality_score": 90.0,
+    "latency_tier": "medium"
   }
 ]
