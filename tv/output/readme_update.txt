@@ -1,35 +1,35 @@
 ## IPTV智能优化系统更新报告
 
-生成时间: 2026-05-22T08:56:51.750485
+生成时间: 2026-05-22T19:30:50.511799
 
 ### 📊 总体统计
-- 总频道数: 152
-- TVBox优化频道数: 152
+- 总频道数: 151
+- TVBox优化频道数: 151
 
 ### 📈 分级统计
-- 低延迟 (<300ms): 17 个频道 (延迟: 平均 241.1ms, 最低 200.0ms)
-- 中等延迟 (<800ms): 49 个频道 (延迟: 平均 534.0ms, 最低 311.8ms)
-- 可接受延迟 (<2s): 68 个频道 (延迟: 平均 1297.6ms, 最低 823.1ms)
-- unacceptable: 18 个频道 (延迟: 平均 4158.6ms, 最低 2165.3ms)
+- 中等延迟 (<800ms): 37 个频道 (延迟: 平均 541.8ms, 最低 309.9ms)
+- 可接受延迟 (<2s): 73 个频道 (延迟: 平均 1386.7ms, 最低 806.6ms)
+- unacceptable: 15 个频道 (延迟: 平均 3754.0ms, 最低 2003.0ms)
+- 低延迟 (<300ms): 26 个频道 (延迟: 平均 225.3ms, 最低 184.3ms)
 
 ### 📁 频道分组
-- : 152 个频道
+- : 151 个频道
 
 ### 🔗 协议统计
+- HLS (m3u8): 128 个频道
 - HTTP: 22 个频道
-- HLS (m3u8): 129 个频道
 - FLV: 1 个频道
 
 ### 💾 生成文件
 #### 播放列表
-- iptv_low_latency.m3u (4.8 KB)
-- iptv_medium_latency.m3u (14.4 KB)
-- iptv_high_latency.m3u (19.9 KB)
-- iptv_optimized_combined.m3u (38.9 KB)
-- tvbox_optimized.m3u (49.1 KB)
+- iptv_low_latency.m3u (7.7 KB)
+- iptv_medium_latency.m3u (10.7 KB)
+- iptv_high_latency.m3u (21.2 KB)
+- iptv_optimized_combined.m3u (39.5 KB)
+- tvbox_optimized.m3u (49.7 KB)
 #### 数据文件
 - aggregated_channels.json (148.8 KB)
-- latency_test_results.json (212.8 KB)
+- latency_test_results.json (212.5 KB)
 #### 配置文件
 - tvbox_config.json (0.4 KB)
 
@@ -40,4 +40,4 @@
 4. **稳定性需求**: 推荐使用 `iptv_medium_latency.m3u` - 延迟适中但更稳定
 
 ### ⭐ 执行信息
-- 总耗时: 385.7 秒
+- 总耗时: 387.5 秒
