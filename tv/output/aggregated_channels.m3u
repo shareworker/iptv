@@ -15,6 +15,8 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV Science & Education Channel
 http://49.113.179.174:4022/udp/238.125.3.121:5140
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV 北京卫视 (1080p)
+http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV 北京卫视 [Not 24/7]
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BRTV 北京卫视
@@ -39,6 +41,8 @@ http://74.91.26.218:82/live/cctv15hd.m3u8
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-17 (1080p)
 http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-1 (1080p)
+http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-1 (720p)
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-2 (720p)
@@ -51,6 +55,8 @@ http://74.91.26.218:82/live/cctv4hd.m3u8
 http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-5 (720p)
 http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-6 (1080p)
+http://198.204.240.250:82/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-7 (720p)
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-8 (720p)
@@ -585,6 +591,8 @@ http://125.210.152.18:9090/live/JXWSHD_H265.m3u8
 http://121.19.134.246:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",河北农民
 http://121.19.134.246:808/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Hebei TV (2160p)
+https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",河北卫视 (2160p)
 http://118.81.195.79:9003/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",河北影视
