@@ -49,10 +49,6 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-4K (1080p)
 http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-5 (1080p)
-http://192.151.150.154/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-5+ (720p)
-http://192.151.150.154/live/cctv5p.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-6 (1080p)
 http://198.204.240.250:82/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-7 (720p)
@@ -145,8 +141,6 @@ https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Xinjiang TV 3
 http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Xinjiang TV 5
-http://106.124.91.222:9901/tsfile/live/21216_1.m3u8?authid=0&key=txiptv&playlive=0
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Xinjiang TV 8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Xizang TV Tibetan (720p) [Not 24/7]
@@ -191,8 +185,6 @@ http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv
 http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",云南卫视 (540p)
 http://112.25.48.68/live/program/live/ynws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",云南都市 (1080p)
-http://39.130.202.81:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",五星体育 (720p)
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",亚太台 (480p)
