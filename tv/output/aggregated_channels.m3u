@@ -849,6 +849,8 @@ https://0472.org/hls/cgtn.m3u8
 http://45.165.82.19/test/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CND Film Middle School Channel
 http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CGTN Spanish (1080p)
+http://45.6.4.35/CGTN/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-1综合
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-2财经
