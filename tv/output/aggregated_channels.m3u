@@ -1171,12 +1171,14 @@ http://192.168.123.1:23234/rtp/239.3.1.154:8001
 http://192.168.123.1:23234/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",门头沟电视台[高清]
 http://192.168.123.1:23234/rtp/239.3.1.59:8001
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",平谷融媒[高清]
+http://192.168.123.1:23234/rtp/239.3.1.23:8001
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",延庆电视台
 http://192.168.123.1:23234/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",中国交通[高清]
 http://192.168.123.1:23234/rtp/239.3.1.188:8001
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",中国天气[高清]
-http://192.168.123.1:23234/rtp/239.3.1.188:8001
+http://192.168.123.1:23234/rtp/239.3.1.108:8001
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",少儿动画[高清]
 http://192.168.123.1:23234/rtp/239.3.1.199:9000
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",动画[高清]
