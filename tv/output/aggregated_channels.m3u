@@ -207,8 +207,6 @@ http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv
 http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",五星体育 (720p)
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",亚太台 (480p)
-http://174.127.67.246/live330/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",交城電視台 (576p)
 http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",京视剧场 (576p)
@@ -277,10 +275,6 @@ https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",南京教科 (576p)
 http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",南川新闻综合 (360p)
-http://221.5.213.4:30000/1111.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",南川旅游经济 (360p)
-http://221.5.213.4:30000/2222.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",南阳新闻 (1080p) [Not 24/7]
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",南陽公共頻道 (1080p) [Not 24/7]
