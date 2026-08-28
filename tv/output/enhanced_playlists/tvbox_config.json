@@ -5,7 +5,7 @@
   "groups": {
     "": {
       "count": 134,
-      "avg_latency": 836.6954477611941,
+      "avg_latency": 1072.351343283582,
       "best_tier": "low"
     }
   },
