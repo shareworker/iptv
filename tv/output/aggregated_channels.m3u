@@ -777,6 +777,8 @@ http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Chuxiong News Channel [Not 24/7]
+http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-1综合
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-2财经
