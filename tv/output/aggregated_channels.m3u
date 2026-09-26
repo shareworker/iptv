@@ -779,6 +779,10 @@ http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Chuxiong News Channel [Not 24/7]
 http://hwapi.yntv.net/ew265l/848y54.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CGTN Spanish (576p)
+http://45.186.106.147:8880/play/a06f/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Chaozhou Public Channel
+http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-1综合
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",CCTV-2财经
