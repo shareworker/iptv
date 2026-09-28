@@ -1063,6 +1063,8 @@ http://192.168.123.1:23234/rtp/239.3.1.133:8016
 http://192.168.123.1:23234/rtp/239.3.1.148:8072
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",河南卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.50:8184
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",陕西卫视[高清]
+http://192.168.123.1:23234/rtp/239.3.1.203:8220
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",辽宁卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.210:8056
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",湖北卫视[高清]
@@ -1077,10 +1079,14 @@ http://192.168.123.1:23234/rtp/239.3.1.156:8148
 http://192.168.123.1:23234/rtp/239.3.1.123:8164
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",甘肃卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.201:8180
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",海南卫视[高清]
+http://192.168.123.1:23234/rtp/239.3.1.205:8228
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",兵团卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.168:8196
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",宁夏卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.169:8212
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",内蒙古卫视[高清]
+http://192.168.123.1:23234/rtp/239.3.1.204:8224
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",新疆卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.167:8192
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",西藏卫视[高清]
